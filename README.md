@@ -16,4 +16,4 @@
 6) the levels are increased if the hen reaches paricular point (after crossing road) based on y cordinate.
 7) the high score is kept track by using a text format file, the score is stored in the string format in file. 
 * creators :
-#seshu,#venkatesh,#praveen
+#sheshu,#venkatesh,#praveen
